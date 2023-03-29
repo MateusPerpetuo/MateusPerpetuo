@@ -15,6 +15,6 @@ If you have any tips or comments to make, please feel free to make them.
 
 
 - 🌱 I’m currently learning HTML, CSS and some JavaScript
-- 📫 How to reach me: mateus_perpeto@oulook.com
+- 📫 How to reach me: mateus_perpetuo@oulook.com
 - 😄 Pronouns: hi/him.
 
