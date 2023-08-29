@@ -1,7 +1,5 @@
 ### Hi there 👋 here is a litle more about me.
 
-I've been working as a video editor for several years specializing as a colorist and 3D compositor.
-
 I am currently transitioning my career into the field of technology and Java programming.
 
 I'm excited to start this new adventure and see where it takes me. 
