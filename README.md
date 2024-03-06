@@ -1,6 +1,6 @@
 ### Hi there 👋 here is a litle more about me.
 
-I am currently transitioning my career into the field of technology starting with Front-end with JavaScript.
+I am currently transitioning my career into the field of technology.
 
 I'm excited to start this new adventure and see where it takes me. 
 
