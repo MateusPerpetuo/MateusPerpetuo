@@ -30,7 +30,7 @@ Busco inicialmente me tornar um engenheiro de software. Não preciso saber de tu
 </br>
 
 
-### 🖥️ Estou Aprendendo: 
+### 🖥️ Estou Aprofundando: 
 - Java
 - SpringBoot
 - Banco de Dados
