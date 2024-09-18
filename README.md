@@ -16,7 +16,6 @@ Busco inicialmente me tornar um engenheiro de software. Não preciso saber de tu
 - Desenvolvimento
 - Automação
 - CyberSegurança
-- MachineLearning
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
