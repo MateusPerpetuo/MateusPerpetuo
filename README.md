@@ -1,7 +1,7 @@
  Olá, me chamo Mateus Perpetuo, e estou em transição de carreira! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou publicitário e editor de vídeo especializado em colorização e composição, e sempre fui apaixonado por tecnologia desde a infância. Minha carreira como editor me aproximou da exploração de novas tecnologias diariamente, despertando ainda mais minha curiosidade.
+Sou publicitário e editor de vídeo especializado em colorização e composição, e sempre fui apaixonado por tecnologia desde a infância. Minha carreira como editor me aproximou da exploração de novas tecnologias diariamente, despertando ainda mais minha vontade de trabalhar com tecnologia
 
 Agora, não quero só usar. Quero desenvolvê-las!
 
