@@ -50,9 +50,5 @@ Busco inicialmente me tornar um engenheiro de software. Não preciso saber de tu
 </a>
 </div>
 
-<div id="header" align="center">
- <p></p>
-  <img src="https://komarev.com/ghpvc/?username=mateusperpetuo&style=for-the-badge&color=red" alt=""/>
-</div>
 
 
