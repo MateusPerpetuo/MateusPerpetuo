@@ -19,7 +19,7 @@ Agora, não quero só usar. Quero desenvolvê-las!
 
 ### 📚 Objetivos
 
-Busco inicialmente me tornar um engenheiro de software. Desejo conhecer cada etapa do desenvolvimento de um programa e ser capaz de orientar equipes futuralmente, mas com o background prático para saber por a mão a massa quando preciso.
+Busco inicialmente me tornar um engenheiro de software. Desejo conhecer cada etapa do desenvolvimento de um programa e ser capaz de orientar equipes futuralmente, mas com o background prático para saber traduzir melhor as tarefas e conseguir orientar melhor uma equipe, além de por a mão a massa quando preciso.
 
 📖 Estou no meu 4º Semetre do Curso de Ciência da Computação
 </br>
