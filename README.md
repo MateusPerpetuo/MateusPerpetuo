@@ -41,11 +41,9 @@ Busco inicialmente me tornar um engenheiro de software. Desejo conhecer cada eta
 
 ### 🖥️ Tenho Estudado: 
 
-- Java
-- Springnboot 3
-- SQL
 - C#
 - .NET
+- SQL
 
 ### Contatos:
 
